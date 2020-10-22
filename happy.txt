@@ -1,3 +1,7 @@
 hi all
 be happy
+<<<<<<< HEAD
 happu dussehra.
+=======
+for all
+>>>>>>> 3c36c63e79ff26fdaefc8f70f0ce63a599db5025
